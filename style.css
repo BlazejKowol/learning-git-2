@@ -1,0 +1,19 @@
+body {
+    padding: 50px;
+    max-width: 500px;
+    text-align: left;
+    margin: auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h3, p:last-of-type {
+    font-style: italic;
+}
+
+h3 {
+    padding-bottom: 25px;
+}
+
+p:last-of-type {
+    padding-top: 25px;
+}
