@@ -1,0 +1,3 @@
+html-validate:document ?
+
+Nie za bardzo wiem co mam tutaj wpisać - czy to chodzi o komendę w Gicie czy o kod?
